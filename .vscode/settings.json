@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.fragment": "glsl",
-        "*.vertex": "glsl",
-        "*.frag": "glsl",
-        "*.vert": "glsl",
-        "cmath": "cpp"
-    }
-}
